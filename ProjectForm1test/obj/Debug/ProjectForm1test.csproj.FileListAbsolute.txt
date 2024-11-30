@@ -1,0 +1,11 @@
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\bin\Debug\ProjectForm1test.exe.config
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\bin\Debug\ProjectForm1test.exe
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\bin\Debug\ProjectForm1test.pdb
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.csproj.AssemblyReference.cache
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.Form1.resources
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.Form2.resources
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.Properties.Resources.resources
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.csproj.GenerateResource.cache
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.csproj.CoreCompileInputs.cache
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.exe
+E:\งานชิบหาย\งานอยู่มอ\ปี1\code\ProjectForm1test\ProjectForm1test\obj\Debug\ProjectForm1test.pdb
